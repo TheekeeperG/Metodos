@@ -1,0 +1,13 @@
+c:\users\jjorge\documents\visual studio 2015\Projects\MetNumBiseccion\MetNumBiseccion\bin\Debug\MetNumBiseccion.exe.config
+c:\users\jjorge\documents\visual studio 2015\Projects\MetNumBiseccion\MetNumBiseccion\bin\Debug\MetNumBiseccion.exe
+c:\users\jjorge\documents\visual studio 2015\Projects\MetNumBiseccion\MetNumBiseccion\bin\Debug\MetNumBiseccion.pdb
+c:\users\jjorge\documents\visual studio 2015\Projects\MetNumBiseccion\MetNumBiseccion\obj\Debug\MetNumBiseccion.csprojResolveAssemblyReference.cache
+c:\users\jjorge\documents\visual studio 2015\Projects\MetNumBiseccion\MetNumBiseccion\obj\Debug\MetNumBiseccion.Form1.resources
+c:\users\jjorge\documents\visual studio 2015\Projects\MetNumBiseccion\MetNumBiseccion\obj\Debug\MetNumBiseccion.Properties.Resources.resources
+c:\users\jjorge\documents\visual studio 2015\Projects\MetNumBiseccion\MetNumBiseccion\obj\Debug\MetNumBiseccion.csproj.GenerateResource.Cache
+c:\users\jjorge\documents\visual studio 2015\Projects\MetNumBiseccion\MetNumBiseccion\obj\Debug\MetNumBiseccion.exe
+c:\users\jjorge\documents\visual studio 2015\Projects\MetNumBiseccion\MetNumBiseccion\obj\Debug\MetNumBiseccion.pdb
+c:\users\jjorge\documents\visual studio 2015\Projects\MetNumBiseccion\MetNumBiseccion\obj\Debug\MetNumBiseccion.Mostrar.resources
+c:\users\jjorge\documents\visual studio 2015\Projects\MetNumBiseccion\MetNumBiseccion\bin\Debug\es-MX\MetNumBiseccion.resources.dll
+c:\users\jjorge\documents\visual studio 2015\Projects\MetNumBiseccion\MetNumBiseccion\obj\Debug\MetNumBiseccion.Form1.es-MX.resources
+c:\users\jjorge\documents\visual studio 2015\Projects\MetNumBiseccion\MetNumBiseccion\obj\Debug\es-MX\MetNumBiseccion.resources.dll
